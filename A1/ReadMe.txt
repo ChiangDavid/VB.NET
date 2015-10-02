@@ -1,4 +1,4 @@
-![a1 screenshot](https://cloud.githubusercontent.com/assets/14915039/10248433/787e0044-68ed-11e5-8781-aed438b36c8f.PNG)
+https://cloud.githubusercontent.com/assets/14915039/10248499/e520422a-68ed-11e5-8cc8-fef92296d7d9.PNG
 
 1. You can add the picture by pressing the “Select Picture” Function
 
