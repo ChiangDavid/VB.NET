@@ -1,0 +1,22 @@
+c:\users\chiachun\documents\visual studio 2013\Projects\A1\A1\bin\Debug\A1.exe.config
+E:\A290 Class code\projects\A1\A1\bin\Debug\A1.exe.config
+E:\A290 Class code\projects\A1\A1\bin\Debug\A1.exe
+E:\A290 Class code\projects\A1\A1\bin\Debug\A1.pdb
+E:\A290 Class code\projects\A1\A1\obj\Debug\A1.Properties.Resources.resources
+E:\A290 Class code\projects\A1\A1\obj\Debug\A1.csproj.GenerateResource.Cache
+E:\A290 Class code\projects\A1\A1\obj\Debug\A1.exe
+E:\A290 Class code\projects\A1\A1\obj\Debug\A1.pdb
+E:\A290 Class code\projects\A1\A1\obj\Debug\A1.csprojResolveAssemblyReference.cache
+E:\A290 Class code\projects\A1\A1\obj\Debug\A1.A1.resources
+C:\Users\david_000\Desktop\A1\A1\A1\bin\Debug\A1.exe.config
+C:\Users\david_000\Desktop\A1\A1\A1\obj\Debug\A1.exe
+C:\Users\david_000\Desktop\A1\A1\A1\obj\Debug\A1.pdb
+C:\Users\david_000\Desktop\A1\A1\A1\bin\Debug\A1.exe
+C:\Users\david_000\Desktop\A1\A1\A1\bin\Debug\A1.pdb
+C:\Users\david_000\Desktop\A1\A1\A1\obj\Debug\A1.csprojResolveAssemblyReference.cache
+C:\Users\david_000\Desktop\A1\A1\A1\obj\Debug\A1.A1.resources
+C:\Users\david_000\Desktop\A1\A1\A1\obj\Debug\A1.Properties.Resources.resources
+C:\Users\david_000\Desktop\A1\A1\A1\obj\Debug\A1.csproj.GenerateResource.Cache
+E:\A290 Class code\projects\A1\A1\A1\bin\Debug\A1.exe.config
+E:\A290 Class code\projects\A1\A1\A1\obj\Debug\A1.exe
+E:\A290 Class code\projects\A1\A1\A1\obj\Debug\A1.pdb
