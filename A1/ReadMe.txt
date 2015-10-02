@@ -1,3 +1,4 @@
+Here is the screenshot for my A1 program
 https://cloud.githubusercontent.com/assets/14915039/10248499/e520422a-68ed-11e5-8cc8-fef92296d7d9.PNG
 
 1. You can add the picture by pressing the “Select Picture” Function
