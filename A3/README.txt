@@ -1,4 +1,8 @@
-﻿For my calculator, the goal for my design is that user will get a notice(log) if user divide the 0 (when the second number that user input is 0).
+Screenshot for my assignment program:
+https://cloud.githubusercontent.com/assets/14915039/10248748/8a9511d0-68ef-11e5-91b0-8e2c69648182.PNG
+
+
+For my calculator, the goal for my design is that user will get a notice(log) if user divide the 0 (when the second number that user input is 0).
 I have different approach to the calculator than the one we did in the class. 
 I think if I design my calculator as horizontal, I am able to large the buttons, so that the user will see each operation clearly.
  Since most of the quit and clear buttons are at the top right. 
