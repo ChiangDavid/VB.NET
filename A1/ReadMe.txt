@@ -1,3 +1,5 @@
+![a1 screenshot](https://cloud.githubusercontent.com/assets/14915039/10248433/787e0044-68ed-11e5-8781-aed438b36c8f.PNG)
+
 1. You can add the picture by pressing the “Select Picture” Function
 
 2. You can quit the program by pressing “Quit” 
